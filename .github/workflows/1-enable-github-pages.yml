@@ -1,5 +1,5 @@
 name: Step 1, Enable GitHub Pages
-
+theme: minima
 # This step triggers after we run a pages build
 # This step sets STEP to 2
 # This step closes <details id=1> and opens <details id=2>
